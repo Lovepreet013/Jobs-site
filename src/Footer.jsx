@@ -107,13 +107,13 @@ const Footer = () => {
         <div className="mt-4 flex flex-col-reverse justify-between lg:flex-row">
             <p className="text-dark-aa">Copyright © 2024 Wellfound(formerly AngelList Talent). All rights reserved.</p>
             <p className="mb-4 text-dark-aa lg:mb-0">Browse by:
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-jobs">Jobs</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/remote-tech-jobs">Remote Jobs</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-job-locations">Locations</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-startups">Startups</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/startups-hiring">Startups Hiring</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-industries">Industries</a>
-            <a className="!text-black hover:text-gtmblue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-hubs">Tech Hubs</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-jobs">Jobs</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/remote-tech-jobs">Remote Jobs</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-job-locations">Locations</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-startups">Startups</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/startups-hiring">Startups Hiring</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-industries">Industries</a>
+            <a className="!text-black hover:text-blue-500 hover:underline underline text-dark-aa px-1" href="/browse/tech-hubs">Tech Hubs</a>
             </p>
         </div>
     </footer>
